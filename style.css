@@ -1,0 +1,8 @@
+#one{
+      border:1px solid black;
+      padding:15px;
+    }
+         
+#tow a,#one a{
+     		color:black;
+             }
